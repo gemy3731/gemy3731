@@ -22,36 +22,9 @@ Tools: Git & GitHub | VSCode
 Concepts: OOP, Responsive Design, SOLID principles, BEM ,RESTful APIs
 
 
-💼 Projects
-
-Here are a few projects that showcase my skills and expertise:
-
-
-🎥 Movies Web App: A platform to browse and search for movies.
-
-🛍️ E-commerce App: A dynamic and responsive online shopping app.
-
-Repo: E-commerce App
-
-🌐 Social App: Implementing WebSockets for real-time chat functionality.
-
-Repo: Social Project
-
-
- Why Work With Me?
- 
-✅ Quick learner and adaptable to new technologies.
-
-✅ Effective communicator with a good level of English.
-
-✅ Dedicated to creating high-quality, performant, and visually appealing applications.
-
-
 📫 Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/mohamed-gamal-hafez/
-
-GitHub: github.com/gemy3731
 
 Email: mohamedgamalz3731@gmail.com
 
