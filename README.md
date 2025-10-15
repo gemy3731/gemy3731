@@ -13,7 +13,7 @@ I'm Mohamed Gamal, a passionate front-end developer who thrive on building clean
 
 🛠️ Tech Stack
 
-Frontend: React.js | Next.js | Redux | React-Query | MUI | Tailwind | Bootstrap | SCSS
+Frontend: React.js | Next.js | Node.js | Supabase | Redux | React-Query | MUI | Tailwind | Bootstrap | SCSS
 
 Languages: JavaScript, Typescript
 
