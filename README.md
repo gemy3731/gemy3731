@@ -57,7 +57,8 @@ audio, customize podcast covers, and apply themes to podcast cards before publis
 authentication and database management, Tailwind CSS for responsive UI, and Mixpanel for error tracking 
 and analytics. 
 Technologies: Next.js, Supabase, Tailwind CSS, TypeScript, Mixpanel 
-E-Commerce-App    [Github](https://github.com/gemy3731/Ur-Store) 
+
+3-E-Commerce-App    [Github](https://github.com/gemy3731/Ur-Store) 
 A scalable E-commerce app built with React following Clean Code, SOLID principles, and Clean Architecture. 
 It includes product browsing, cart management, authentication, and secure Stripe payments. The backend is 
 implemented with Next.js, using Supabase for authentication and database. The UI is fully responsive, built 
