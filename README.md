@@ -72,3 +72,5 @@ LinkedIn: https://www.linkedin.com/in/mohamed-gamal-hafez/
 
 Email: mohamedgamalz3731@gmail.com
 
+Phone & Whatsapp: +201204811102
+
