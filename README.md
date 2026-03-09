@@ -58,7 +58,12 @@ authentication and database management, Tailwind CSS for responsive UI, and Mixp
 and analytics. 
 Technologies: Next.js, Supabase, Tailwind CSS, TypeScript, Mixpanel 
 
-3-E-Commerce-App    [Github](https://github.com/gemy3731/Ur-Store) 
+2-GenZWrite
+an AI-powered web application that detects human-written content 
+and converts AI text into human-like writing styles, with token-based usage and payments via Stripe and PayPal.
+Technologies:Next.js, Supabase, OpenAI integration, Tailwind CSS, and Mixpanel.
+
+4-E-Commerce-App    [Github](https://github.com/gemy3731/Ur-Store) 
 A scalable E-commerce app built with React following Clean Code, SOLID principles, and Clean Architecture. 
 It includes product browsing, cart management, authentication, and secure Stripe payments. The backend is 
 implemented with Next.js, using Supabase for authentication and database. The UI is fully responsive, built 
