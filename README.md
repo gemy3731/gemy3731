@@ -1,8 +1,6 @@
 👋 Welcome to my GitHub!
 
-I'm Mohamed Gamal, Frontend Web Developer by passion and practice, with one year of professional experience building 
-responsive, scalable, and user-focused web applications using modern technologies, while writing clean, 
-modular, and maintainable code. 
+I'm Mohamed Gamal, Full Stack Engineer with two years of experience building modern web applications using JavaScript, React, Next.js, Node.js, and Express.js. I enjoy developing scalable, user-focused solutions and writing clean, maintainable code. 
 
 
 🛠️ Tech Stack
