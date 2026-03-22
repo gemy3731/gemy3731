@@ -6,7 +6,7 @@ I'm Mohamed Gamal, Full Stack Engineer with two years of experience building mod
 🛠️ Tech Stack
 
 Frontend: React.js | Next.js | Supabase | Redux | React-Query | MUI | Tailwind | Bootstrap | SCSS
-Backend: Node.js | Express | MongoDB | Mongoose | MySQL | Sequelize
+Backend: Node.js | Express | MongoDB | Mongoose | MySQL | Sequelize | Docker
 
 Languages: JavaScript, Typescript
 
@@ -39,7 +39,7 @@ CodeSlu website : https://codeslu.com/
 
 Projects
 
-1-Company Website & Admin Panel – CodeSlu
+1- Company Website & Admin Panel – CodeSlu [CodeSlu](https://codeslu.com/)
 • Developed the official company website. 
 • Implemented smooth, high-performance animations using GSAP and integrated Mixpanel for user interaction 
 tracking and analytics. 
@@ -47,7 +47,7 @@ tracking and analytics.
 • Optimized for responsiveness, performance, and accessibility across devices. 
 • Technologies and tools used: Next.js, Tailwind CSS, GSAP, Mixpanel, Stripe 
 
-2-PodZ  
+2- PodZ  [PodZ](https://podz.quesoft.app/)
 Podcast App – Developed a full-stack podcast application that enables users to upload and publish audio 
 content with enhanced features. Implemented OpenAI Whisper for automated transcription and integrated 
 ChatGPT to generate structured chapters from the transcript. Built interactive functionality for users to edit 
@@ -56,18 +56,21 @@ authentication and database management, Tailwind CSS for responsive UI, and Mixp
 and analytics. 
 Technologies: Next.js, Supabase, Tailwind CSS, TypeScript, Mixpanel 
 
-2-GenZWrite
+2- GenZWrite [GenZWrite](https://genzwrite.com/)
 an AI-powered web application that detects human-written content 
 and converts AI text into human-like writing styles, with token-based usage and payments via Stripe and PayPal.
 Technologies:Next.js, Supabase, OpenAI integration, Tailwind CSS, and Mixpanel.
 
-4-E-Commerce-App    [Github](https://github.com/gemy3731/Ur-Store) 
+4- E-Commerce-App    [Github](https://github.com/gemy3731/Ur-Store) 
 A scalable E-commerce app built with React following Clean Code, SOLID principles, and Clean Architecture. 
 It includes product browsing, cart management, authentication, and secure Stripe payments. The backend is 
 implemented with Next.js, using Supabase for authentication and database. The UI is fully responsive, built 
 with Tailwind CSS and React Context. 
 Technologies: React, Tailwind, React context, Supabase, Stripe, Next.js
 
+5- Full-Stack Social Media Application    [Github](https://github.com/gemy3731/FullStack-social-app) 
+Developed a full-stack social media platform featuring user authentication, a paginated posts feed with image uploads, and a real-time commenting system. Built a REST API with Node.js and Express following a layered architecture (controller → service → model), secured with JWT via HTTP-only cookies and bcrypt password hashing. Engineered a hybrid-rendered Next.js frontend using React Server Components for SSR data fetching and client-side Redux for global state, with a custom Axios wrapper that transparently forwards cookies across server and client environments. 
+Technologies: Next.js · Express · TypeScript · MongoDB · Mongoose · JWT · Joi · Multer · Cloudinary · Redux Toolkit · Tailwind css · MUI
 
 📫 Connect With Me
 
