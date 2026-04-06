@@ -6,6 +6,7 @@ I'm Mohamed Gamal, Full Stack Engineer with two years of experience building mod
 🛠️ Tech Stack
 
 Frontend: React.js | Next.js | Supabase | Redux | React-Query | MUI | Tailwind | Bootstrap | SCSS
+
 Backend: Node.js | Express | MongoDB | Mongoose | MySQL | Sequelize | Docker
 
 Languages: JavaScript, Typescript
